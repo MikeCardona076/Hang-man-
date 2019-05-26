@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\C#\Juegodezam\Juegodezam\bin\Debug\Juegodezam.exe.config
+C:\Users\PC\Documents\C#\Juegodezam\Juegodezam\bin\Debug\Juegodezam.exe
+C:\Users\PC\Documents\C#\Juegodezam\Juegodezam\bin\Debug\Juegodezam.pdb
+C:\Users\PC\Documents\C#\Juegodezam\Juegodezam\obj\Debug\Juegodezam.csprojAssemblyReference.cache
+C:\Users\PC\Documents\C#\Juegodezam\Juegodezam\obj\Debug\Juegodezam.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\C#\Juegodezam\Juegodezam\obj\Debug\Juegodezam.exe
+C:\Users\PC\Documents\C#\Juegodezam\Juegodezam\obj\Debug\Juegodezam.pdb
